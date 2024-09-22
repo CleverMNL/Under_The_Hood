@@ -1,11 +1,11 @@
 {
 	"nodes":[
-		{"id":"9ef34136759157dd","x":-400,"y":-101,"width":250,"height":60,"color":"#a42424","type":"text","text":"Youtube"},
-		{"id":"e36766a92cb26a68","x":-115,"y":-101,"width":250,"height":60,"color":"#a42424","type":"text","text":"Books"},
-		{"id":"6d17b4e8e89c1837","x":-140,"y":-300,"width":300,"height":100,"color":"#a42424","type":"text","text":"## Unconventional path to forensics"},
-		{"id":"483a830276776344","x":160,"y":-101,"width":250,"height":60,"color":"#a42424","type":"text","text":"Forums"},
-		{"id":"d213c2569b523c4c","x":380,"y":-300,"width":220,"height":100,"type":"text","text":"# Hex to use #42424\n"},
-		{"id":"7ac0d2258096020d","x":-685,"y":-420,"width":305,"height":120,"type":"text","text":"###### This is also to be used as a compilation of resources and tools that I have used and attribute credit to my learning"}
+		{"id":"9ef34136759157dd","type":"text","text":"Youtube","x":-400,"y":-101,"width":250,"height":60,"color":"#a42424"},
+		{"id":"e36766a92cb26a68","type":"text","text":"Books","x":-115,"y":-101,"width":250,"height":60,"color":"#a42424"},
+		{"id":"6d17b4e8e89c1837","type":"text","text":"## Unconventional path to forensics","x":-140,"y":-300,"width":300,"height":100,"color":"#a42424"},
+		{"id":"483a830276776344","type":"text","text":"Forums","x":160,"y":-101,"width":250,"height":60,"color":"#a42424"},
+		{"id":"d213c2569b523c4c","type":"text","text":"# Hex to use #42424\n","x":380,"y":-300,"width":220,"height":100},
+		{"id":"7ac0d2258096020d","type":"text","text":"###### This is also to be used as a compilation of resources and tools that I have used and attribute credit to my learning","x":-685,"y":-420,"width":305,"height":120,"color":"4"}
 	],
 	"edges":[
 		{"id":"bc6a765f57dcbe02","fromNode":"6d17b4e8e89c1837","fromSide":"bottom","toNode":"9ef34136759157dd","toSide":"top","color":"#862424"},
