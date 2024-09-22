@@ -1,0 +1,1 @@
+This will be one of more notebooks that will be using VSCode along with Obsidian to track my learning journey into topics of interest.
