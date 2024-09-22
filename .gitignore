@@ -1,0 +1,17 @@
+# Ignore obsidian log files
+Forensics_notebook/.obsidian
+
+.obsidian/*
+
+# Ignore environment variable file
+.env
+.environment
+
+# Ignores files in a temporary folder
+temporary/
+
+# Ignores specific file types (including some executables)
+*.tmp
+*.bak
+*.swp
+*.exe
