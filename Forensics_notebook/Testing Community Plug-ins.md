@@ -1,2 +1,0 @@
-
--- Editing is simplified 
