@@ -56,3 +56,10 @@ A repeater simply 'regenerates' signals- this actually sounds crazy to think abo
 Repeaters, hubs, switches, routers, and bridges were built in order to deal with the problems of technology. 
 
 Connecting hosts directly would not scale and the internet would be unmaintainable. A hub is like a multi port repeater.  A bridge is like a hub of hubs. It connects hub-connected hosts. They only have two ports and they "learn"  which hosts are on each side. This makes some sense but is too abstracted to mean anything so I will research this more on google. 
+
+Bridges were the first to contain data transfers to their relative networks, this helped retain safety of information leakage- info from one network going into another network- when it does not need to. It also understands when one network wants to specifically send info to another network.
+
+Switches combine hubs and bridges. They have multiple ports, unlike the dual port bridge. It also learns which host are on each port. This organizes communication logically. Switches help simplify communication logic within a network. It makes it so that devices in a network like a school or building/company can transfer data to each other without having to worry about finding which device to send the data to get to the destination it desires within a network. [[Switches_drawing]]
+This illustrates switches and adds a little more scale to networks. 
+
+Routers simplify communications between networks. Think Network to network. In the switches drawing, I also added the illustration of added routers for networks to function. This is the connectivity basis behind the interconnected network/internet. Routers are what also filters traffic and acts as the bouncer for networks. It used to be the case that switches could not perform this kind of filtering. They also "learn" about which networks they are connected to. Using this information, they build what is called a routing table which is a list, for lack of a better word, of all the networks the router "knows about"/connects with. 
