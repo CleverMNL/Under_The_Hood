@@ -40,7 +40,7 @@ In this way, the 4 bits set in groups of 2 make up 8. The largest binary represe
 
 IP is simple to understand because it is created to be assigned hierarchically. An easy way to visualize this may be to just create a visual. 
 
-[[First_obs_excalidraw]]
+[[IP_address_drawing]]
 
 A fun point made in the video which I remember as vaguely as anything was how floppy disk were used, or how thumb drives stored information. A nice definition for networking was that it is only just a logical grouping of hosts which require similar connectivity. 
 
@@ -128,3 +128,49 @@ Each router can be thought as having 2 MAC addresses one when it receives and on
 ---
 
 L4 = Transport (service to service as he calls it)
+
+This layer distinguishes (<- is that not a weird word) data streams
+The addressing scheme used are called Ports
+ - TCP and UDP
+   - 0-65535 numbers used to identify in TCP 
+   - 0-65535 numbers used to identify in UDP
+
+Specific services like a game or a web chat or a website are each going to be associated with a specific port. Talks about a topic quickly over headers and how they work in L4. Let's assume a person is trying to use a specific chat server online. That server will be 'open'/'listening' for requests on already configured/set-up ports. This port that has been previously selected by the server will take requests from clients and connect them by sending back information using the  headers packet. 
+
+
+```
+: = port 
+
+src-2.1.2.1 :800 # this port number is randomly selected by the client requesting
+dst-3.2.3.2 :55 # This is a pre-defined port by the server
+
+```
+
+When the server sends back its information, like the webpage, or game it will send another packet.
+
+
+```
+
+src-3.2.3.2 :55
+dst-2.1.2.1 :800 # This random port will be used by server to help send back info to client
+
+```
+
+One thing to note that is practical knowledge is that each time you make a request on your laptop or other device, you are using a randomly selected UDP/TCP port to design the routing/travel packet to find a device and for it to find you back. 
+
+
+---
+
+Layers 5, 6, 7 = Session, Presentation, Application (respectively)
+
+Distinction between these layers is vague. ambiguous. so it sucks therefore, they are sometimes just put together. In a similar framework for networking called the TCP/IP model puts all three into a layer 4 called application. The other layers for the TCP/IP model are the Network Access which combines L1 and L2 of the OSI model, the internet which is the same as L3 network, and layer 3 is called Host to Host in TCP/IP but it called the transport layer/L4 in OSI.
+
+Back to OSI:
+
+ This part examines the entire process together. Recall that this is all used to get one request from client to server, that could be making a google search, searching google maps, ordering food online (wait, this is more complex the more I think about it because their could be multiple requests send over the same service). 
+
+Working any of these models could be thought of easier if taken a top-down approach or in this case a 7 to 1 approach. You begin with identifying the application, then the transport (UDP/TCP), then the Network (IP), then the Data link (MAC), and finally the physical. The entire process of sending and creating a packet with this routing/travel information is called encapsulation. 
+
+L5,6,7 seems to not have a direct name, L4 is called a segment, L3 is called a packet, L2 is called a frame and that just packs the entire 'packet' with the added data being transferred. The final step  is to then convert this information into binary (0's and 1's) to be sent over the wire or Wi-Fi. 
+
+The host receiving the request works its way from 1-7 or the opposite of the requester. This important section went in 20 seconds. It starts with the other host who is being requested data. It takes the binary from the physical layer, and read out as the L2 frame which packs the data and the routing/travel packet. This begins a confirmation process to verify if the request is in the right location, if not, it sends it on its way. This entire process is called De-encapsulation. A nice visual was made in the end here and I have tried to re-create it here: [[OSI]]
