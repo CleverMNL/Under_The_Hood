@@ -17,4 +17,5 @@ temporary/
 *.exe
 
 # Ignore files under the excalidraw folder - for safety and compatibility
-Excalidraw/
+Excalidraw/*
+Forensics_notebook/Excalidraw
