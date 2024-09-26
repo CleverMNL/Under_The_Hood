@@ -3,19 +3,6 @@ Forensics_notebook/.obsidian
 
 .obsidian/*
 
-# Ignore environment variable file
-.env
-.environment
-
-# Ignores files in a temporary folder
-temporary/
-
-# Ignores specific file types (including some executables)
-*.tmp
-*.bak
-*.swp
-*.exe
-
 # Ignore files under the excalidraw folder and canvas- for safety and compatibility
 Excalidraw/
 Forensics_notebook/Excalidraw
