@@ -178,4 +178,17 @@ The host receiving the request works its way from 1-7 or the opposite of the req
 
 ---
 
-This next section will be about what hosts do to speak on the internet. 
+This next section will be about what hosts do to speak on the internet.  
+
+This is a more simplified approach and it helps to get a basis for how computers send data to each other. 
+
+Picture there are two devices that are directly connected over a wire. They use the same cable to send little 1's and 0's over it. Both of these devices have a NIC and therefore must have a specific device identifier, the MAC address. [[Host to Host]] . Device A wants to send a picture to device B, in order to do this it must know where B is. It could send a ping to device B IP address or from the DNS, convert the Domain name to an IP (Think about how google.com is in English for humans to read but it is "wrapped" as an IP address - 111.111.111.111 - this will be used to find the service on the internet by the computers/devices since they only interpret binary. 
+
+This could be a lesson to talk about ASCII or UTF but that is another topic. To sum those two up, they are essentially ways to "encode"/represent a human readable character such as "abc" or "%^$" into a 1 and 0 combination. The letter 'a' would be represented as  the following UTF encoding of 1 and 0's: 
+0110110001100101011101000111010001100101011100100010000001100001
+
+In ASCII it would be short: 01100001. This is because UTF represents thousands of characters possible in the human language (not everything is English)
+
+Imagine how tedious that would be to write or even look at. 
+
+Back to the topic. Devices use a system called subnetting to "learn" what devices are on the same network. Another topic to learn about subnetting. 
