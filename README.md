@@ -6,7 +6,7 @@ plug-in for spaced repitition learning.
 
 ### Table of Contents
 - [Overview](#overiew)
-- [Appearance](#appear)
+- [Appearance](#appearance)
 - [Setup](#setup)
 - [Installation](#intall)
 - [Vision](#vision)
@@ -20,14 +20,14 @@ that Dr. Alfred Adler took on the problems of the world and that they all came t
 the world if the universe what just one individual. This project is not about me, is what I am gettng at. I hope this serves another curious person
 and helps them build a resource of learning for themselves. 
 
-### Appear: 
+### Appearance: 
 
 Using the Excalidraw community plug-in: 
 <img src="Forensics_notebook\Image_folder\L2 and L3.png"></img>
 
 Using the canvas feature on Obsidian:
-<img src="Forensics_notebook\Image_folder\README_canvas.png"></img>
 
+<img src="Forensics_notebook\Image_folder\README_canvas.png"></img>
 
 
 ### Setup
