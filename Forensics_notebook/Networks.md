@@ -191,4 +191,12 @@ In ASCII it would be short: 01100001. This is because UTF represents thousands o
 
 Imagine how tedious that would be to write or even look at. 
 
-Back to the topic. Devices use a system called subnetting to "learn" what devices are on the same network. Another topic to learn about subnetting. 
+Back to the topic: Devices use a system called subnetting to "learn" what devices are on the same network. Another topic to learn about subnetting. A subnet mask is configured inside a host/device along with an IP address, subnet masks identifies the size of the IP network. If device A wants to send something to host B and figures out the IP address of host B, it then creates an L3 header to 'attach' to the data it wants to send. L3 is used in the same manner a person would write an address on a postcard to someone. L3 does not interact with the physical layer but L2 does. Even though L3 was solved and the IP address is known, the L2 MAC address of device B still isn't. This introduces [[Address Resolution Protocol]] (ARP) which takes care of figuring out the other device MAC address. This is much like sending a letter to a specific person. You want to be as specific as possible, not only knowing their current address, but also the name of the person you want to send it to or mail box number for illustration purposes. 
+
+Device A will send out an ARP request that asks for a MAC address that is connected to a specific IP address and it will also include device A's IP + MAC address. That ARP request is sent to every device on the network basically shouting that this is your device IP and MAC address. A specific MAC address called F address is reserved for making those request and acts as a placeholder of sorts. It is the reserved address sent in a packet to every device on a local network. ARP is discussed a bit further on what it does to resolve/find who is who on the network. All this is to complete the L2 header and create the packet to then send over data to the right place. 
+
+The device finally checks if the headers on the packet received are correct by verifying if it has that IP and that MAC address. If it does have the right IP and MAC, it "deletes" the L2 and L3 headers and is left with the data that was transferred. This is finally processed by the device and complete. Since the IP and MAC of the devices are cached/saved, they do not have redo the ARP process. Steps are the same if there is a router or anything in between the data transfer process. That is why they are protocols. 
+
+
+---
+
