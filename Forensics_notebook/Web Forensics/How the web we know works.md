@@ -19,3 +19,5 @@ Most will refer to history and ARPANET but<font color="#92cddc"><strong> I want 
 [[Frameworks]]
 
 [Step up your front-end skills with these 5 resources (youtube.com)](https://www.youtube.com/watch?v=QqDH5sYzDS8&list=PL4-IK0AVhVjMylAEgsiMvj3rt4Eb_lI1k&index=13)
+
+[[Design]]
