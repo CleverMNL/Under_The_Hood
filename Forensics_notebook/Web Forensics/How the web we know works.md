@@ -10,12 +10,6 @@ The way data travels from one place to another is a different story that builds 
 
 Most will refer to history and ARPANET but<font color="#92cddc"><strong> I want to say in a few words, what other take courses to learn. I also want to talk about under the hood things that will give depth to the words. </strong></font>
 
-[[HTML]]
-
-[[CSS]]
-
-[[JS]]
-
 [[Frameworks]]
 
 [Step up your front-end skills with these 5 resources (youtube.com)](https://www.youtube.com/watch?v=QqDH5sYzDS8&list=PL4-IK0AVhVjMylAEgsiMvj3rt4Eb_lI1k&index=13)
