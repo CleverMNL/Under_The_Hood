@@ -4,39 +4,6 @@ This will be one of more notebooks that will be using VSCode along with Obsidian
 My notes will be taken in Obdisian and will include drawings using the ecalidraw community plug-in. They will also have an Anki style flashcard 
 plug-in for spaced repitition learning. 
 
-<style>
-    li {
-        box-shadow: 10px;
-        color: grey;
-        padding: 5px;
-    }
-
-    li:nth-child(1) a {
-        color: salmon;
-        font-size: 18px;
-    }
-    
-    li:nth-child(2) a {
-        color: #9370db;
-        font-size: 18px;
-    }
-
-     li:nth-child(3) a {
-        color: salmon;
-        font-size: 18px;
-    }
-
-     li:nth-child(4) a {
-        color: #87ceeb;
-        font-size: 18px;
-    }
-
-     li:nth-child(5) a {
-        color: #20b2aa;
-        font-size: 18px;
-    }
-</style>
-
 ## Table of Contents
 - [Overview](#overiew)
 - [Appearance](#appearance)
