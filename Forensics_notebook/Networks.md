@@ -173,7 +173,7 @@ Working any of these models could be thought of easier if taken a top-down appro
 
 L5,6,7 seems to not have a direct name, L4 is called a segment, L3 is called a packet, L2 is called a frame and that just packs the entire 'packet' with the added data being transferred. The final step  is to then convert this information into binary (0's and 1's) to be sent over the wire or Wi-Fi. 
 
-The host receiving the request works its way from 1-7 or the opposite of the requester. This important section went in 20 seconds. It starts with the other host who is being requested data. It takes the binary from the physical layer, and read out as the L2 frame which packs the data and the routing/travel packet. This begins a confirmation process to verify if the request is in the right location, if not, it sends it on its way. This entire process is called De-encapsulation. A nice visual was made in the end here and I have tried to re-create it here: [[OSI]]
+The host receiving the request works its way from 1-7 or the opposite of the requester. This important section went in 20 seconds. It starts with the other host who is being requested data. It takes the binary from the physical layer, and read out as the L2 frame which packs the data and the routing/travel packet. This begins a confirmation process to verify if the request is in the right location, if not, it sends it on its way. This entire process is called De-encapsulation. A nice visual was made in the end here and I have tried to re-create it here: [[OSI_drawing]]
 
 
 ---
@@ -200,3 +200,4 @@ The device finally checks if the headers on the packet received are correct by v
 
 ---
 
+In this next video lecture, the example used is 

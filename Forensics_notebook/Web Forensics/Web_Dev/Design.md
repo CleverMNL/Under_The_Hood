@@ -1,6 +1,11 @@
 A quick but valuable lesson from Kevin Powell on designing a site:
 https://youtu.be/KYFwcIRx16g?si=Y2kkHZG4a1OpLVtE
 
+Two front end course videos that cover a lot of the basics. I only use them here to refer to a resource as a beginner:
+https://youtu.be/Aj7HLsJenVg?si=bN6-APcHil-IgKYD
+
+[Front End Developer Learning Path - YouTube](https://www.youtube.com/playlist?list=PLWKjhJtqVAbmMuZ3saqRIBimAKIMYkt0E)
+
 [[HTML]]
 
 [[CSS]]

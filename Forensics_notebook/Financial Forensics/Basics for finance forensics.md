@@ -11,8 +11,16 @@ Accounting and Bookkeeping are the basis of all financial transactions. Ledger k
 
 [[CFA certifications]]
 
-[[Forensics in finance]]
+[[Forensic areas in finance]]
 
 [[Stats in finance]]
 
 [[Trading machines]]
+
+[[Banking]]
+
+[[Decentralization]]
+
+[[Secrecy]]
+
+[[Laundering]]
