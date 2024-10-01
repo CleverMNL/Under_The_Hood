@@ -2,13 +2,13 @@
 
 Use that website for more than just DCT, it is really useful.
 
-This website tends to be less intense in their jargon and less academic so it is helpful to get a high-level understanding:
+This website tends to be less intense in their jargon and less academic so it is helpful to get a high-level understanding while still going deep into concepts:
 [Discrete Cosine Transform (Algorithm and Program) - GeeksforGeeks](https://www.geeksforgeeks.org/discrete-cosine-transform-algorithm-program/)
 
 This is a very math oriented:
 [3.8.2: Discrete Cosine Transformation - Engineering LibreTexts](https://eng.libretexts.org/Bookshelves/Electrical_Engineering/Signal_Processing_and_Modeling/Information_and_Entropy_(Penfield)/03%3A_Compression/3.08%3A_Detail-_2-D_Discrete_Cosine_Transformation/3.8.02%3A_Discrete_Cosine_Transformation)
 
-For the sake of simplicity, I have not gone into explaining geometry to explain what cosine is but refer to texts or youtube for a better understanding of Pythagoras theorem.
+For the sake of simplicity, I have not gone into explaining geometry to explain what cosine is but refer to texts or Youtube for a better understanding of Pythagoras' theorem.
 
 The essential take away is that it is used in lossy image compression and reduces the size without a significant loss in quality. This is done by transforming the image into a new representation using matrices that are more efficient when storing and transferring as bits.
 
@@ -25,7 +25,7 @@ The second step, which is the first in the compression process is to divide an i
 
 These blocks are then operated on (the math is applied), by multiplying the pixel values by a set of cosine functions. Once the operation is completed, the image data transitions from a spatial "domain" of pixel values, to a frequency "domain" of coefficient representing different frequencies). 
 
-The reason why things are simpler as frequencies is thanks to the fact that information is just an electrical signal/pulse (electrons moving). A binary is just electricity on or off (1 or 0).  This is covered in more detail and explained simply in another note; [[Binary]] and [[Capturing Lightning]]. 
+The reason why things are simpler as frequencies is thanks to the fact that information is just an electrical signal/pulse (electrons moving). A binary is just electricity on or off (1 or 0).  This is covered in more detail and explained simply in another note; [[Boolean]] and [[Capturing Lightning]]. 
 
 The next step in DCT is to 'quantize'. This is the primary step in actually reducing the image file size since the previous steps were more meant to prepare the file for this process. Since the image is now in a frequency domain (coefficients representing different frequencies), it is ready to be quantized. A matrix is used to determine how much to reduce each coefficient. Coefficients representing low frequencies (important for overall image structure) are typically kept with higher precision, while coefficients representing high frequencies (fine details) can be reduced more.
 
@@ -47,5 +47,29 @@ The last step reassembles the image by reconstructing blocks to form the final d
 1. Divide and Conquer:
  - Cut the image into 8x8 pixel blocks
  
-2. Frequency Magic:  
+2. Frequency Magic (aka DCT transformation):  
  - Turn pixel values into frequency numbers, higher numbers mean important details.
+
+3. Quantization:
+ - Simplify the remaining information by deleting some numbers
+
+4. Zigzag scanning:
+ - Arrange the frequency numbers into a special order.
+
+5. RLE (run-length encoding):
+ - Find repeating number patterns and replace them with abbreviated codes
+
+6. Huffman Coding:
+  - Find the most common words in the simplified matrix arrangement and give them a shorter code
+
+7. Inverse DCT:
+  - Translate the frequency 'language' back into pixel 'language'
+
+8. Reconstruction:
+  - Put blocks back together like a Lego
+
+This line may help in understanding the frequency component further:
+
+**High-frequency coefficients represent rapid changes in intensity (like sharp edges), while low-frequency coefficients represent gradual changes (like large areas of similar color).**
+
+DCT works by representing an image as a sum of cosine functions of different frequencies. In sound waves, the amplitudes (strength) of a frequency can be represented as the sum of sine waves.
