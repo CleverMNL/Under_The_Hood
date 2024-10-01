@@ -18,5 +18,7 @@ Kevin Powell has covered Figma and those are good videos to check out. Another a
 
 [[Image file formats]]
 
+"Good design is al little design as possible" - Dieter Rams
+
 
 
