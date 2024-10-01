@@ -1,7 +1,7 @@
 # Learning Forensics w/notetaking
 
 This will be one of more notebooks that will be using VSCode along with Obsidian to track my learning journey into topics of interest.
-My notes will be taken in Obdisian and will include drawings using the ecalidraw community plug-in. They will also have an Anki style flashcard plug-in for spaced repitition learning. 
+My notes will be taken in Obdisian and will include drawings using the excalidraw community plug-in.
 
 ## Table of Contents
 - [Overview](#overiew)
