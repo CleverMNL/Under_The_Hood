@@ -6,12 +6,14 @@ A simple breakdown of the process begins with a DNS or domain name system, this 
 
 [[Browsers]]
 
+[[Web Development]]
+
 The way data travels from one place to another is a different story that builds the infrastructure of the internet. This comes down to network protocols and routers. For the internet to function, measures are taken to ensure that data is reliable and efficiently handled to go from one place to another. Routers are devices that connect different networks. 
 
-Most will refer to history and ARPANET but<font color="#92cddc"><strong> I want to say in a few words, what other take courses to learn. I also want to talk about under the hood things that will give depth to the words. </strong></font>
+Most will refer to history and ARPANET but<font color="#92cddc"><strong> I want to say in a few words, what other take courses to learn. I also want to talk about under the hood things that will give depth to the words. </strong></font> I still do believe that history must be touched but perhaps I will just point to some useful resources here.
+
+[10 Types of Computers, From Wearables to Supercomputers | HowStuffWorks](https://science.howstuffworks.com/innovation/inventions/who-invented-the-computer.htm)
+
 
 [[Frameworks]]
 
-[Step up your front-end skills with these 5 resources (youtube.com)](https://www.youtube.com/watch?v=QqDH5sYzDS8&list=PL4-IK0AVhVjMylAEgsiMvj3rt4Eb_lI1k&index=13)
-
-[[Design]]

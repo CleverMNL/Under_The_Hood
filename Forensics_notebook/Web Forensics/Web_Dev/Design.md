@@ -20,5 +20,5 @@ Kevin Powell has covered Figma and those are good videos to check out. Another a
 
 "Good design is al little design as possible" - Dieter Rams
 
-
+[Step up your front-end skills with these 5 resources (youtube.com)](https://www.youtube.com/watch?v=QqDH5sYzDS8&list=PL4-IK0AVhVjMylAEgsiMvj3rt4Eb_lI1k&index=13)
 
