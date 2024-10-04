@@ -21,7 +21,7 @@ Here I will link more specific files and this will act as a top level repo:
 A video I found that examined some high-level overview of the jargon of computers:
 [CPP01_Chapter 1_Lecture (youtube.com)](https://www.youtube.com/watch?v=3gM_BM4NW80)
 
-I will be using a few roadmaps to guide my notetaking, the following will be links to them: 
+I will be using a few **roadmaps** to guide my notetaking, the following will be links to them: 
 
 [Computer Fundamentals Tutorial (geeksforgeeks.org)](https://www.geeksforgeeks.org/computer-fundamentals-tutorial/)
 
