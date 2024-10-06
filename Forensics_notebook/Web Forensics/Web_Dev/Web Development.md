@@ -4,3 +4,8 @@ Web development has grown into a behemoth of overly complex and abstracted thing
 Some of the processes leading the abstraction will be explored along side the building block of them.
 
 [[Design]]
+
+[[Frameworks]]
+
+Using VS Code:
+https://youtu.be/WPqXP_kLzpo?si=TU2B_Hq7py6JYtm4

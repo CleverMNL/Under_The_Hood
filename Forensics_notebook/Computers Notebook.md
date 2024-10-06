@@ -37,4 +37,7 @@ I will be using a few **roadmaps** to guide my notetaking, the following will be
 
 [Teach Yourself Computer Science (teachyourselfcs.com)](https://teachyourselfcs.com/)
 
+How to write good comments for Git:
+https://youtu.be/ScWFHOOPPC4?si=cfiSvVwTh3KUHjAw
+
 #Main

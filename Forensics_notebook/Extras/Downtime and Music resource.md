@@ -5,7 +5,7 @@ I also want to stay focused on using a Pomodoro like study technique. <font colo
 
 This helped the idea : [The smartest people have mastered these 6 core skills | Michael Watkins for Big Think+ (youtube.com)](https://www.youtube.com/watch?v=32z8Ax1j-Q4)
 
-Ambience:
+---
 https://youtu.be/xNN7iTA57jM?si=180eGnkYJoR93TTI
 
 https://youtu.be/4vIQON2fDWM?si=G36v9uudu5bVf17B
@@ -31,4 +31,8 @@ https://youtu.be/APfszb7_y7Y?si=6juzg--2xs1H9L1U
 [BrunuhVille - YouTube](https://www.youtube.com/channel/UCZg2-TZBGrwRbuettVf10uw)
 
 [Ambient Outpost - YouTube](https://www.youtube.com/@ambientoutpost)
+
+---
+
+https://youtu.be/9ftwhlbkudI?si=xLILIjgkeNL0TDh4
 

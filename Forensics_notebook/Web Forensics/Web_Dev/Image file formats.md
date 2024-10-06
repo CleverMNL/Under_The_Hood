@@ -24,7 +24,7 @@ Most raster formats (almost universally all) apply compression to make the file 
 Non-lossy compression reduces file size but retains all the bits by using run-length encoding (RLE) -this stores information of each bit and identifies if some have an identical value, it stores these sequences of identical bytes as a single value followed by a count on how many identical there are.
 
 Color Channels:
-There are a few ways that images store data which include RGB, CYMK, greyscale, BGR, HSV, RYB, LAB, and HSL. These are essentially just color combinations to get specific tones, shades, and colors. There are specific purposes for them or application. For example, in printing, CYMK is the standard because it allows for an image to be separated into cyan, yellow, magenta, and black. Other areas where they are used include research since sensing and computer vision require understanding of the visible spectrum and some invisible such as infrared. 
+There are a few ways that images store data which include RGB, CYMK, greyscale, BGR, HSV, RYB, LAB, and HSL. These are essentially just color combinations to get specific tones, shades, and colors. There are specific purposes for them or application. For example, in printing, CYMK is the standard because it allows for an image to be separated into cyan, yellow, magenta, and black. Other areas where they are used include research since sensing and computer vision require understanding of the visible spectrum and some invisible such as infrared. [[Color Theory applications]] has a great resource on colors.
 
 Here are a couple of educative resources:
 [75 Years of Innovation: Color television | by SRI International | The Dish | Medium](https://medium.com/dish/75-years-of-innovation-color-television-3991507bb0d1)

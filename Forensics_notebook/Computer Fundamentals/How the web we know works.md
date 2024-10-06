@@ -14,6 +14,3 @@ Most will refer to history and ARPANET but<font color="#92cddc"><strong> I want 
 
 [10 Types of Computers, From Wearables to Supercomputers | HowStuffWorks](https://science.howstuffworks.com/innovation/inventions/who-invented-the-computer.htm)
 
-
-[[Frameworks]]
-

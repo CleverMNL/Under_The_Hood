@@ -6,7 +6,8 @@
  - [x] A - Make a note for resources used for downtime and music background
 	 - [ ] Should I time stamp when I watched them?
 
- - [ ] B - 
+ - [ ] B - Add mode front end videos from scratch onto the HTML file. 
+
  - [ ] C -
  - [ ] D - 
  - [ ] E -

@@ -12,3 +12,16 @@ This is Kevin Powell examining and explaining color theory in an understandable 
 This is a great presentation, actually engaging and stimulating as the presenter had great experience in speaking:
 [How to Make Your Website Not Ugly: Basic UX for Programmers - Hilary Stohs-Krause (youtube.com)](https://www.youtube.com/watch?v=Jf0cjocP8Wk)
 
+
+##### To learn more about colors use this lecture and visit chapter 3:
+https://youtu.be/OXGznpKZ_sA?si=PncYxZotEXXgdDve
+
+It explains color codes used such as HSL, RGB, HEX, etc. A great resource that was introduced here was a contrast checker. Although I use a forced dark mode on my browser which dulls a lot of colors, it is still a great resource. 
+
+Contrast Checkers: 
+[WebAIM: Contrast Checker](https://webaim.org/resources/contrastchecker/)
+
+[Color Contrast Checker - Coolors](https://coolors.co/contrast-checker)
+
+Hex codes:
+[HTML Color Codes 🎨 (html-color.codes)](https://html-color.codes/)
