@@ -4,9 +4,9 @@
  - [ ] Take notes on Accounting -using Lumen later use CFA book
 
  - [x] A - Make a note for resources used for downtime and music background
-	 - [ ] Should I time stamp when I watched them?
+	 - [x] Should I time stamp when I watched them? No is the verdict
 
- - [ ] B - Add mode front end videos from scratch onto the HTML file. 
+ - [ ] B - Add more front end videos from scratch onto the HTML file. 
 
  - [ ] C -
  - [ ] D - 

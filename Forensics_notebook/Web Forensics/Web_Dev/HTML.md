@@ -15,9 +15,12 @@ Most learning will occur only when you put in the work and get yourself involved
 There are some other resources such as books to tap into and read and one I would actually recommend and have read would be the aforementioned book by Karl Stolley because it takes a practical and theorical approach and synthesizes/mixes them well. A strong focus on practicality and fun should be used to learn the most. I will use the a projects folder that will have my html projects listed. The file path will be as follows: 
 ##### Notebook> Learning_Projects > HTML_Projects >  "Project_name" 
 
+This video was completely beginner friendly with some of the most hideous html at the beginning but it is helpful: https://youtu.be/a_iQb1lnAEQ?si=YYysWzD-MgM09bY4
+
+This is a nice video that has great visual and is simply to follow explaining a lot to know about HTML: https://youtu.be/zutb5Clb_0Y?si=kXvwK20LkrH8xm4Q
 
 I liked watching from front end videos of people making websites to see their methods of building and layouts. Here are a few:
 
 - https://youtu.be/OXGznpKZ_sA?si=uINB-mxZDKpT3I3J - This is on freecodecamp and it is a 3 hour long lecture but it covers a lot of ground and it extremely helpful especially if you see how the lecturer uses shorthand writing in html to get a lot done in those 3 hours. 
 
-- 
+-    

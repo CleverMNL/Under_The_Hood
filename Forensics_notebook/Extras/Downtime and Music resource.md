@@ -32,7 +32,13 @@ https://youtu.be/APfszb7_y7Y?si=6juzg--2xs1H9L1U
 
 [Ambient Outpost - YouTube](https://www.youtube.com/@ambientoutpost)
 
+https://youtu.be/FNKk81qANwU?si=oIUP-Qsl1I0Zs7Tr
+
 ---
 
 https://youtu.be/9ftwhlbkudI?si=xLILIjgkeNL0TDh4
+
+https://youtu.be/KgJzb_c2iiM?si=p3nnwoo038JkvARs
+
+https://youtu.be/vhumOLNSSJY?si=TJAcIpF5MwSl3Nx6
 

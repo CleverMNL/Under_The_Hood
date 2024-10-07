@@ -99,10 +99,18 @@ As an example, here are some business costs of doing business:
 - Cost of (salaries and wages).
 - Cost for (rent).
 - Costs of (utilities).
-- Cost of small items used to run a business (supplies).
-- Cost of protection from liability, damage, injury, theft, etc. (insurance).
-- Cost of promoting the business (advertising).
-- Costs related to the upkeep of machinery and buildings (repairs and maintenance).
+- Cost of (supplies).
+- Cost of (insurance which include theft and damages).
+- Cost of (marketing).
+- Costs related to (repairs and maintenance).
+
+Module 1 Lecture 8 - Transactions and the Accounting Equation:
+Accounting as a process of analyzing and identifying/classifying business transactions must track the following:
+- Amount the business has
+- amount it paid during the month
+- amount of money it owes
+- total costs to run the business
+- and what its runway is (runway is a startup term for how much money they have to stay afloat/in business)
 
 ---
 There are two predominant accounting guidelines or frameworks that are used most used. IFRS and GAAP, there are others, but they are less relevant. I will explore concepts of both and document which resources I have used to learn about accounting. 
@@ -111,3 +119,5 @@ There are two predominant accounting guidelines or frameworks that are used most
 
 [[IFRS]] - International Financial Reporting Standards
 
+
+OBSESS OVER LEARNING
