@@ -108,9 +108,15 @@ Module 1 Lecture 8 - Transactions and the Accounting Equation:
 Accounting as a process of analyzing and identifying/classifying business transactions must track the following:
 - Amount the business has
 - amount it paid during the month
-- amount of money it owes
+- amount it owes
 - total costs to run the business
 - and what its runway is (runway is a startup term for how much money they have to stay afloat/in business)
+
+It is vital to keep these running totals up to date.
+
+Tracking these running totals in an easy to understand manner or at least a more systemized way is what accounting also helps do. Those running totals/numbers will be called balances and each item will go into an account. Any item that is tracked in terms of running dollar balances is set up in an "account" name. Think of how Control + F helps simplify searching in a file, accounts makes items easier to find. When a manager asks, " how much x do we have left?", they can find that simply. 
+
+This first step and the vital one to accounting is bookkeeping and it is the process of capturing data/recording transactions. An accounting transaction has a vague definition and can be anything that has a monetary impact on the financial statements of a business. 
 
 ---
 There are two predominant accounting guidelines or frameworks that are used most used. IFRS and GAAP, there are others, but they are less relevant. I will explore concepts of both and document which resources I have used to learn about accounting. 
@@ -119,5 +125,14 @@ There are two predominant accounting guidelines or frameworks that are used most
 
 [[IFRS]] - International Financial Reporting Standards
 
-
+---
 OBSESS OVER LEARNING
+
+---
+##### A video that covers all bases and provides a great overview of what is needed to understand accounting: https://youtu.be/hTU6HE64Wd0?si=HxHUGJke5jjsq9mn
+
+Fun video by Google lecture by Aswath Damodaran: https://youtu.be/uH-ffKIgb38?si=dMTCzNkzevu5gKA0
+
+He also has an entire lecture on value investing: https://youtu.be/LYGYvN5LUbA?si=RvX00jB3ro4NNI9n
+
+The Plain Bagel is a fun channel on Youtube examining investment and accounting terms: https://youtu.be/7Smti_OsM58?si=O3gvRIpCqYUZboRK
