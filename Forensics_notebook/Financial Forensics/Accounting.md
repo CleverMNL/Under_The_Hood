@@ -118,6 +118,7 @@ Tracking these running totals in an easy to understand manner or at least a more
 
 This first step and the vital one to accounting is bookkeeping and it is the process of capturing data/recording transactions. An accounting transaction has a vague definition and can be anything that has a monetary impact on the financial statements of a business. 
 
+
 ---
 There are two predominant accounting guidelines or frameworks that are used most used. IFRS and GAAP, there are others, but they are less relevant. I will explore concepts of both and document which resources I have used to learn about accounting. 
 

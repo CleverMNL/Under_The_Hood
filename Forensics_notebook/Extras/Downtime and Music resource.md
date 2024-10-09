@@ -1,3 +1,4 @@
+[[TODO Notes]] #Xtra 
 
 This will be a list of a few videos I have used and all the videos  I will be using during downtime, after/between study sessions. 
 
@@ -28,14 +29,20 @@ https://youtu.be/UnaXM6ceHks?si=eRHJ_PmwNVI4srZq
 
 https://youtu.be/APfszb7_y7Y?si=6juzg--2xs1H9L1U
 
+https://youtu.be/FXBDf8Es8aY?si=opBPUqh3w7FqK1J4
+
 [BrunuhVille - YouTube](https://www.youtube.com/channel/UCZg2-TZBGrwRbuettVf10uw)
 
 [Ambient Outpost - YouTube](https://www.youtube.com/@ambientoutpost)
+https://youtu.be/T7NoKkqrigE?si=oz2_L9H-BotEdEky
 
 https://youtu.be/FNKk81qANwU?si=oIUP-Qsl1I0Zs7Tr
 
 https://youtu.be/FfZngVIyk0A?si=vhg1SS6UtPibma6x
 
+https://youtu.be/5LLD_-JnEgU?si=hfD0Cd-wGtlehmqL
+
+https://youtu.be/Zhaz_30H_0w?si=YxZ3WdZhIp1v5aUr
 ---
 
 https://youtu.be/9ftwhlbkudI?si=xLILIjgkeNL0TDh4

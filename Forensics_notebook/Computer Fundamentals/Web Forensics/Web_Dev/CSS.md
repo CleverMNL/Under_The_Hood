@@ -7,8 +7,8 @@ Projects using CSS will be under the folder path:
 
 ---
 Cascading Style Sheets is perfectly named because it is a styling format of keywords/syntax that is applied to a page alongside html to make it appear in a manner which we want to make it appear. The cascading part comes from the fact that the rule sets (the appearance we want to apply to it) are taken in a trickle down manner, a top-down rank where certain rules can be overwritten by a rule set after. 
-
-The video lecture also does a cool job at explaining how some rgb values are written. To summarize: black is the absence of color so it is written as six zeros (000000), white on the other hand is written as six F's for full (FFFFFF) from this we can take that full red would be FF0000, full green would be 00FF00, and blue is 0000FF. Every other color (not every single one but a lot) derives from this hexadecimal representation. 
+ 4
+The video lecture also does a cool job at explaining how some RGB values are written. To summarize: black is the absence of color so it is written as six zeros (000000), white on the other hand is written as six F's for full (FFFFFF) from this we can take that full red would be FF0000, full green would be 00FF00, and blue is 0000FF. Every other color (not every single one but a lot) derives from this hexadecimal representation. 
 
 A shorthand was made for representing some hexadecimals using pairwise notation simply meaning that each pair could be written shorter. Black can be 000 because each zero represents the pair of 00, 00, 00. or white can be FFF for FF, FF, FF. 
 
@@ -42,4 +42,9 @@ One last point made that was only stated in passing but I see it as helpful was 
 ---
 ##### The box model:
 
-Pretty much all html and css is a box. A div is a box, an article is a box, a section is a bow, etc. CSS works within those boxes.
+Pretty much all html and CSS is a box. A div is a box, an article is a box, a section is a box, etc. CSS works within those boxes.  Padding is interesting an goes (top, right, bottom, left) and it can assume things for you. For example, if you wanted padding on top of a div box of 15px with a bottom padding of 10px and a left and right padding of 14px, it would be written as (padding: 15px 14px 10px). Here the renderer assumes for you that both left and right padding are to be 14px. Using dashes is a great way to learn about the box model or when using grid. (use border-style: dashed). For any questions about HTML and CSS, one of the best resources is [W3Schools Online Web Tutorials](https://www.w3schools.com/)
+
+---
+##### Typography:
+
+This is an entire field of study that looks at how a character is arranged and presented (it deals with the visuals of text). It can go into details on letter size, letter spacing, centering, etc. Some other things that can make you think about what typography is are italics, or underlines. They are things that affect how a piece of text looks like/is read. 
