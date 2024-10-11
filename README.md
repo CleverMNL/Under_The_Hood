@@ -34,4 +34,6 @@ I would also recommend using the Excalidraw community plug-in for Obsidian, the 
 I can point to many great quotes about learning but ultimately, to learn and be curious is not something simply stated. I hope to find a strong reason to bring more people to curiosity and excellence throughout the duration of this project.
 
 ## License 
-I am going to be learning more about the specifics behind licensing and how they have powered the open source community to become what it has. In doing so, I wish to contribute to a communal learning 
+I am going to be learning more about the specifics behind licensing and how they have powered the open source community to become what it has. In doing so, I wish to contribute to a communal learning. This repo is testing the usage of the GNU General Public License v3.0. 
+
+Refer to the License file of this repo and a breakdown of the license is provided by Github along with the disclaimer that it is not legal advice. This points towards learning more about Licenses directly and referring to legislature. 
