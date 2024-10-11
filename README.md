@@ -27,9 +27,11 @@ Using the canvas feature on Obsidian:
 
 
 ## Setup
-
+I would recommend installing Obsidian (note-taking application) for its ease of use and because that is what I mainly used to take these notes.
+I would also recommend using the Excalidraw community plug-in for Obsidian, the Editing Toolbar community plug-in, and the Tracker plug-in. 
 
 ## Mission
+I can point to many great quotes about learning but ultimately, to learn and be curious is not something simply stated. I hope to find a strong reason to bring more people to curiosity and excellence throughout the duration of this project.
 
-
-## License
+## License 
+I am going to be learning more about the specifics behind licensing and how they have powered the open source community to become what it has. In doing so, I wish to contribute to a communal learning 

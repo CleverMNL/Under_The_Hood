@@ -1,3 +1,13 @@
+
+This video is the best shortest lesson on networking and helps make sense of terms used in these notes: https://youtu.be/sMHzfigUxz4?si=M4enw7PUU1M2cNf8
+
+[Network Ports Explained (youtube.com)](https://www.youtube.com/watch?v=g2fT-g9PX9o) Netstat is cool
+
+https://youtu.be/3b_TAYtzuho?si=8nrzPKl1Cd3PRVG2
+
+https://youtu.be/eKHCH6rw0As?si=94FQQS7cIVASUja-
+
+[Subnet Mask - Explained (youtube.com)](https://www.youtube.com/watch?v=s_Ntt6eTn94)
 #### First lesson in the first module- https://www.youtube.com/watch?v=bj-Yfakjllc&list=PLIFyRwBY_4bRLmKfP1KnZA6rZbRHtxmXi&index=1
 
 Examine Host, IP Addresses, and Networks
@@ -46,7 +56,6 @@ A fun point made in the video which I remember as vaguely as anything was how fl
 
 Think of the example of a home network or a coffee shop network. The devices become part of a larger connection that helps identify where information is to be transferred to. 
 
-
 ---
 
 The next video deals with hubs, switches, routers, and bridges. These are used to deal with decay. Similar to how repeaters work because electricity can only transfer data so far before decay or loss. This is also why fiberoptics are dope. Saw another video on those which explained why they are so common; they are cheaper, can be grouped/bundled, and they lose less data due to the way they bend back signals passed through 'better'. 
@@ -77,7 +86,6 @@ A final point in this video is that this topic was very surface level and that t
 - etc
 
 There all aim at fixing issues with the web. Think about what load balancing would mean, and firewalls being used, or if proxies mean the same thing in networks as they do in equity securities.
-
 
 ---
 
@@ -124,7 +132,6 @@ MAC: E8E4.84A5.9665 -> MAC:9665.9C3C.7AE3
 
 Each router can be thought as having 2 MAC addresses one when it receives and one when it sends. There is a protocol that ties L2 and L3 called the Address Resolution Protocol (ARP) which links an L3 address to an L2 address.
 
-
 ---
 
 L4 = Transport (service to service as he calls it)
@@ -158,7 +165,6 @@ dst-2.1.2.1 :800 # This random port will be used by server to help send back inf
 
 One thing to note that is practical knowledge is that each time you make a request on your laptop or other device, you are using a randomly selected UDP/TCP port to design the routing/travel packet to find a device and for it to find you back. 
 
-
 ---
 
 Layers 5, 6, 7 = Session, Presentation, Application (respectively)
@@ -174,7 +180,6 @@ Working any of these models could be thought of easier if taken a top-down appro
 L5,6,7 seems to not have a direct name, L4 is called a segment, L3 is called a packet, L2 is called a frame and that just packs the entire 'packet' with the added data being transferred. The final step  is to then convert this information into binary (0's and 1's) to be sent over the wire or Wi-Fi. 
 
 The host receiving the request works its way from 1-7 or the opposite of the requester. This important section went in 20 seconds. It starts with the other host who is being requested data. It takes the binary from the physical layer, and read out as the L2 frame which packs the data and the routing/travel packet. This begins a confirmation process to verify if the request is in the right location, if not, it sends it on its way. This entire process is called De-encapsulation. A nice visual was made in the end here and I have tried to re-create it here: [[OSI_drawing]]
-
 
 ---
 
@@ -196,7 +201,6 @@ Back to the topic: Devices use a system called subnetting to "learn" what device
 Device A will send out an ARP request that asks for a MAC address that is connected to a specific IP address and it will also include device A's IP + MAC address. That ARP request is sent to every device on the network basically shouting that this is your device IP and MAC address. A specific MAC address called F address is reserved for making those request and acts as a placeholder of sorts. It is the reserved address sent in a packet to every device on a local network. ARP is discussed a bit further on what it does to resolve/find who is who on the network. All this is to complete the L2 header and create the packet to then send over data to the right place. 
 
 The device finally checks if the headers on the packet received are correct by verifying if it has that IP and that MAC address. If it does have the right IP and MAC, it "deletes" the L2 and L3 headers and is left with the data that was transferred. This is finally processed by the device and complete. Since the IP and MAC of the devices are cached/saved, they do not have redo the ARP process. Steps are the same if there is a router or anything in between the data transfer process. That is why they are protocols. 
-
 
 ---
 

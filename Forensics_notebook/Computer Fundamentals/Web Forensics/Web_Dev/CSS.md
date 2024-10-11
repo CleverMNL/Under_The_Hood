@@ -7,7 +7,7 @@ Projects using CSS will be under the folder path:
 
 ---
 Cascading Style Sheets is perfectly named because it is a styling format of keywords/syntax that is applied to a page alongside html to make it appear in a manner which we want to make it appear. The cascading part comes from the fact that the rule sets (the appearance we want to apply to it) are taken in a trickle down manner, a top-down rank where certain rules can be overwritten by a rule set after. 
- 4
+ 
 The video lecture also does a cool job at explaining how some RGB values are written. To summarize: black is the absence of color so it is written as six zeros (000000), white on the other hand is written as six F's for full (FFFFFF) from this we can take that full red would be FF0000, full green would be 00FF00, and blue is 0000FF. Every other color (not every single one but a lot) derives from this hexadecimal representation. 
 
 A shorthand was made for representing some hexadecimals using pairwise notation simply meaning that each pair could be written shorter. Black can be 000 because each zero represents the pair of 00, 00, 00. or white can be FFF for FF, FF, FF. 
@@ -47,4 +47,53 @@ Pretty much all html and CSS is a box. A div is a box, an article is a box, a se
 ---
 ##### Typography:
 
-This is an entire field of study that looks at how a character is arranged and presented (it deals with the visuals of text). It can go into details on letter size, letter spacing, centering, etc. Some other things that can make you think about what typography is are italics, or underlines. They are things that affect how a piece of text looks like/is read. 
+This is an entire field of study that looks at how a character is arranged and presented (it deals with the visuals of text). It can go into details on letter size, letter spacing, centering, etc. Some other things that can make you think about what typography is are italics, or underlines. They are things that affect how a piece of text looks like/is read. It is extremely helpful to understand. 
+
+As I searched for more resources to learn about Typography, I saw a rabbit hole (I didn't realize people were so obsessed with the appearance of text), and stuck my head in for a peek. 
+
+[25 Free Typography Resources to Inspire Your Designs | Domestika](https://www.domestika.org/en/blog/10571-25-free-typography-resources-to-inspire-your-designs)
+
+[20 great free resources for learning typography | Creative Bloq](https://www.creativebloq.com/features/20-great-free-resources-for-learning-typography)
+
+[The 5 Best Free Online Typography Courses (makeuseof.com)](https://www.makeuseof.com/best-free-online-typography-courses/)
+
+These are only a dip and they feel overwhelming as people have dedicated decades of work into this field alone and feel passionate as "writers". 
+
+---
+##### List stuff:
+
+There is a lot of interesting things that can be done with lists in HTML and CSS. Images can be added to bullet points, roman numerals can be set at different beginning numbers, spaces can be added for clarity, points can be hidden entirely, etc. List- "action" such as -style, -height, -style-image, -style-position, -style-type. Setting type to none would remove the bullet point.  
+
+You can even add specific words as the bullet points by using the "content" property. 
+Exp. 
+    content: "The amount moved: "; 
+    would display a list item like so: 
+			The amount moved: 345 dollars
+
+---
+##### Display property: 
+
+This impacts the display of an item by creating its own space and explicitly defining its appearance. display: inline-block is a type of property and value. 
+
+A thing to look at just to help streamline workflow would be to **learn about Emmet Abbreviation** means because once it is learned, a lot of writing can be avoided. 
+
+---
+##### Working with floating boxes:
+
+A pretty cool feature to explore as it adds readability to some pages but not to be overused. Limit use to Letters or a small image that aids the words. Floats are always outside the flow of a page and add tedious reworking and fixing since other boxes will not directly interact with the float box. There are simple workarounds but always recall graceful degradation for backward compatibility meaning, we still want it to work with older versions of HTML and CSS since not all browsers accept them. 
+
+--- 
+##### Using Columns:
+
+These are more based on appearance and do not have to be used if there are better alternatives. One of the more practical takeaways from this section is actually on fonts and Unicode that goes into HTML or CSS and how to use it to get typographical effects. For example making quotations like:
+		"What is evil, that which springs from weakness." **-** Friedrich Nietchze 
+
+---
+##### Position just makes sense:
+
+Keeping the page sections separate is a fun feature and adding pure functionality is the best feature which will help and avoid any unnecessary code using JS. 
+
+---
+##### Using Flexbox and Using Grid:
+
+Almost always in use somewhere. I enjoy it over grid but Kevin Powell mentioned there are tradeoff for using either, grid is better at somethings and flexbox is better at others (or less worse). Shows a visual explanation of how flexbox looks like. 
