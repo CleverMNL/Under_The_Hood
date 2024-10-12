@@ -96,4 +96,29 @@ Keeping the page sections separate is a fun feature and adding pure functionalit
 ---
 ##### Using Flexbox and Using Grid:
 
-Almost always in use somewhere. I enjoy it over grid but Kevin Powell mentioned there are tradeoff for using either, grid is better at somethings and flexbox is better at others (or less worse). Shows a visual explanation of how flexbox looks like. 
+Almost always in use somewhere. I enjoy it over grid but Kevin Powell mentioned there are tradeoff for using either, grid is better at somethings and flexbox is better at others (or less worse). Shows a visual explanation of how flexbox looks like. One video mentioned that you also must remember that using either flexbox or grid is purely a choice. A person can decide whether to use anything and can design something like a carousel or a collage, whatever they desire that is consistent with the goal of the site. 
+
+---
+##### Variables:
+
+Placed after the reset, uses capital letters but this is not enforced syntax. Variables can be thought of as a shortcut. You can name a variable once and decide what property and value to assign. For example, you could set a variable of "--BGCOLOR: # FFF;" and use that same background color in any other tag/id/class by stating which property to use it on like so; "background-color: var(--BGCOLOR);". It can be thought of as a DRY method (don't repeat yourself) because instead of typing colors again and again, you can create variables for color you wish to use and then "call" the variable that you wish to use. This is not limited to colors, think anything that can be repetitive that affects the entire tag/id/class together such as font, letter spacing, padding, width, height, etc. 
+I can see this being abused/overused so it should only be used if speed takes priority because I think autocomplete functions take care of most speed issues and allow for more flexibility for a person to control the display/appearance. 
+
+---
+##### Functions:
+
+Pretty much a bunch of values (colors can be functions). Goes into editing the appearance of the page quickly and explains font sizing which is helpful. Uses the min and max functions which use the smallest and the largest units written respectively. Also uses the clamp function which works with both the minimum and the maximum unit size provided; this function is not necessarily legacy compatible but has a strong documentation support on most browsers nowadays. Refer to CSS documentation to learn more about functions and try them out.
+
+---
+##### Animations:
+
+Fun to mess with and cool to look at. TIP* find websites that have cool animations and try to mess around and find out how they work (dev tools can be used to help). 
+
+This can deal with transform, media query, transition, translate/rotate, skew/scale, etc. Using hover and transition also count apparently and they are simple to use. 
+ 
+W3 Schools has a good section on CSS animations. Check out [CodePen Search](https://codepen.io/search/pens?q=pure+css+animations)
+
+---
+##### Working in an Org:
+
+Use comments, talk and discuss productively a lot, set a standard such as sorting alphabetically, create or follow a naming convention methodology, create or follow a syntax methodology. 
