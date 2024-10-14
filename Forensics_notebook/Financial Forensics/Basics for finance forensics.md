@@ -7,9 +7,11 @@ Accounting and Bookkeeping are the basis of all financial transactions. Ledger k
 
 [[Bookkeeping]]
 
-[[Series Certifications]]
+[[Series Certs]]
 
-[[CFA certifications]]
+[[CFA]]
+
+[[Financial Modeling]]
 
 [[Forensic areas in finance]]
 
@@ -24,3 +26,5 @@ Accounting and Bookkeeping are the basis of all financial transactions. Ledger k
 [[Secrecy]]
 
 [[Laundering]]
+
+[[Accounting by youtube video]]

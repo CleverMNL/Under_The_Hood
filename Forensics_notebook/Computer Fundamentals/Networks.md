@@ -3,6 +3,8 @@ This video is the best shortest lesson on networking and helps make sense of ter
 
 [Network Ports Explained (youtube.com)](https://www.youtube.com/watch?v=g2fT-g9PX9o) Netstat is cool
 
+More on networks; great lecture: https://youtu.be/kNKHM_isojI?si=321L1l88nvlU7uWS enjoyed the analogies provided to help make sense of traffic. 
+
 https://youtu.be/3b_TAYtzuho?si=8nrzPKl1Cd3PRVG2
 
 https://youtu.be/eKHCH6rw0As?si=94FQQS7cIVASUja-
@@ -204,4 +206,6 @@ The device finally checks if the headers on the packet received are correct by v
 
 ---
 
+
+---
 STAY CURIOUS
