@@ -118,14 +118,81 @@ Tracking these running totals in an easy to understand manner or at least a more
 
 This first step and the vital one to accounting is bookkeeping and it is the process of capturing data/recording transactions. An accounting transaction has a vague definition and can be anything that has a monetary impact on the financial statements of a business. 
 
+Module 1 Lecture 10- Types of accounts
+To help this process it is best to know what kind of business one is in. Is it a service, manufacturing, merchandising, retail, online-only, etc. Businesses will fall into the category of service, manufacturing, or merchandising but it is good to differentiate more (elucidate). 
 
+One of the major tells that separates services from the rest is **inventory**. Nowadays, and more in the future, companies will be more evolved and as always, adaptation must occur. Ecosystems will arise where there may be no raw materials required mut things will still be "made". There can always be a mix of the big three (manuf, service, merch). 
+
+Module Lecture 11- Types of financial statements
+General purpose financial statements provide much of the information desired and required by external users. These are more formal reports that go under more careful study/revision. Financial statements used by externals are prepared using a system/protocol of accounting called Generally Accepted Accounting Principle, more commonly abbreviated to [[GAAP]]. 
+
+4 basic and commonly used statements include the:
+- Income statement
+- Statement of Cashflow/Cashflow statement
+- Balance sheet
+- Statement of Owners Equity
+
+The income statement is defined as a snapshot in time of revenues, expenses, and taxes which is based on a simple equation:
+
+$$ Revenue - Expenses = Net Income (-net -loss -if -expenses > revenues) $$
+This begins with stating the revenue on top and then taking from that (subtracting from it). This process is more of plug in the right number to the right expense category and assigning the proper revenue stream to the correct amount. 
+
+The statement of owner's equity summarizes the changes in shareholder equity in a company. This means how much money the owners/investors get from the company or put into it. Imagine the stock market, this does not care for every single investor but summarizes this by stamping at a certain day/time how much something/someone owns (companies can own shares, so can trusts, and other organizations). This could include dividends and convertible investments. 
+
+The statement of cashflows differs a bit but the main difference comes from if the accounting being done is based on cash or accrual basis: [[Cash vs Accrual]]. 
+
+The balance sheet follow the accounting equation:
+
+$$ Assets = Liabilities + Owners' Equity $$
+This is therefore a derived work that can be made after the other statements are prepared. 
+
+Module 1 Lecture 12- Challenges to accounting
+#### Ethics 
+that is the biggest. According to Lumen Learning, "...if the bank asks you for financial statements before it loans you money, no matter what, you have to provide accurate, verifiable, and honest information. That’s the ethical thing to do even if you think the bank’s loan committee might not like what they see."- but where would that go wrong? 
+
+Module 1 Lecture 13- Ethics in accounting
+The short and simple approach to this is that there are guidelines that address ethics and morals in accounting but I will say, these should be minimum standards and a person who strives for excellence and meaning should see to it that they go above and beyond the common practices that are complacent and not steward-like at all. The AICPA or the American Institute of Certified Public Accountants along with the Institute of Management Accountant worked to develop the AICPA Code of Professional Conduct:  [AICPA Online Professional Library](https://pub.aicpa.org/codeofconduct/Ethics.aspx)
+
+Why should ethics be brought up? Why else would I be learning about forensics if I did not care? It matters because it goes against that which is comes from weakness and exploits/hurts people. Those who are deemed honest or whose job requires their "honesty" should be doubly doubted and studied (think about priests and advisors, and broker/dealers to name a few, and I will throw in politicians-the lesser of the bunch). Never underestimate depravity or stupidity; actions that are harmful do not change repercussions due to any reason a perpetrator may have (although, this is not congruent with laws). 
+
+Module 1 Lecture 14- 
+Some events I will highlight that make accounting an evermore regulated area include the introduction of the SEC under FINRA, the establishment of the Financial Accounting Standards Board (FASB) as the governing body overseeing the accounting profession,  the Internal Revenue Code (IRC) -remember the code part because it does not have anything to do with enforcement but sets the laws-, the AICPA, the International Accounting Standards Board (IASB) which along with the AICPA set standards for auditors called generally accepted accounting standards (GAAS), and many legal cases that made it known that people get hurt by those who are dishonest in money handling and transaction recording. 
 
 ---
-There are two predominant accounting guidelines or frameworks that are used most used. IFRS and GAAP, there are others, but they are less relevant. I will explore concepts of both and document which resources I have used to learn about accounting. 
+Module 2 Lecture 1- Enron and why accounting fails sometimes
 
-[[GAAP]] - Generally Accepted Accounting Principles
+Read up on Enron if unfamiliar. 
 
-[[IFRS]] - International Financial Reporting Standards
+Module 2 Lecture 3- The Role of FASB
+In 1973, the FASB took over the role of overseeing and setting accounting standards for public private and non-profit companies from the previous Accounting Principles Board and before them, the Committee on Accounting Procedures. **One thing to note is that the FASB is governed and funded by a private sector non-profit.** The Financial Accounting Foundation (FAF) is that company. FAF is in charge of overseeing, financing, administration, and member appointing for both the FASB and the Governmental Accounting Standards Board (GASB). The main reason for this private sector separation from politics (of course it is).
+
+Module 2 Lecture 4-GAAP short version
+The steps to develop and implement GAAP standards:
+1. Identification = The FASB has a task force called the emerging issues task force that finds relevant issues/topics to discuss. 
+2. Pre-agenda research = the technical staff conducts research
+3. Agenda decision = the task force adds the topic to the agenda or decides to postpone it.
+4. (not so) Public meeting = Meeting is held to debate the issue/topic.
+5. Discussion Memorandum = a detailed paper is written and outlines solution proposals.
+6. (insider) Stakeholder input = FASB collects responses/suggestions from the SEC, AICPA, public accounting firms, and other relevant parties.
+7. Re-deliberation = re-discuss issues and solutions based on inputs received.
+8. Exposure Draft is written = a preliminary version of a proposed change is issued/sent out that details the proposed solution.
+9. Public responses = FASB obtains responses to the exposure and the exposure draft is revised as necessary. 
+10. Final statement of Principle = if 4/7 FASB members which as assigned by the non-profit (FAF) support the revisions made to the Exposure draft, a statement of financial accounting standards is issued.
+11. Education = It then becomes the job of the FASB to provide education to accountants (CPA's) on how to apply the new standard.
+12. Implementation = FASB provides technical assistance in how to implement the revised standard.
+
+One great example of how a proposed change actually was implemented and battled because of how it would impact business is used. In 1989, the FASB proposed that health and insurance costs be accounted for as employment expenses and not as retirement expenses as they had been which is not congruent with accrual accounting not the principle of matching. The business world was recognizing expenses for health and insurance after retirement and FASB proposed to make companies recognize expenses over the period of employment. During the Public meeting, companies expressed concern (pretty much cried) about the potential adverse effects to their current net incomes of reconciling past expenses; FASB reacted by changing their proposal and listening to the companies. All GAAP is compiles here: [Combine Sections - 105 Generally Accepted Accounting Principles (fasb.org)](https://asc.fasb.org/105/showallinonepage)
+
+More recently, the FAF established the Private Company Council (PCC) in order to address the restrictive nature and complexity of GAAP for smaller companies to follow which outweigh the benefit. These changes point to the nature of accounting again, and the adaptiveness required to understand it. 
+
+Module 2 Lecture 5- Integral concepts to GAAP
+Information should be made useful to many stakeholders in their decision making. It should also help asses the amounts, risk, and timing of cashflows in the business. Thirdly, it should identify the economic resources of a company. 
+
+This importance of information leads to:
+- The monetary unit assumption
+- The historical price principle
+
+Monetary unit assumption 
 
 ---
 OBSESS OVER LEARNING
@@ -138,3 +205,5 @@ Fun video by Google lecture by Aswath Damodaran: https://youtu.be/uH-ffKIgb38?si
 He also has an entire lecture on value investing: https://youtu.be/LYGYvN5LUbA?si=RvX00jB3ro4NNI9n
 
 The Plain Bagel is a fun channel on Youtube examining investment and accounting terms: https://youtu.be/7Smti_OsM58?si=O3gvRIpCqYUZboRK
+
+---
