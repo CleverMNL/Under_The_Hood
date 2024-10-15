@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Graceful Degradation</title>
+    <link rel="stylesheet" href="gd_style.css">
+</head>
+<body>
+    <!-- Wherever possible, do not use the arbitrary <div> tag and use more informative tags-->
+    <header>
+        <h1>
+            Graceful Degradation Project
+        </h1>
+        
+        <nav>
+            <ul>  <!-- TODO Fix these naming conventions please-->
+                <li><a href="#primary"> Inspiration and motivations</a></li>
+                <li><a href="#secondary"> Structure matters</a></li>
+                <li><a href="#tertiary"> More info</a></li>
+                <li><a href="#outside-content"> Other projects</a></li>
+                <li><a href="#footer"> Footer</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main id="content"> <!-- naming classes and IDs is set to lowercase letters and start with a letter always unless a super specific reason
+                             also use the hyphen if necessary but limit it to one hyphen. Although HTML5 supports more chars, 
+                             limit this for backward compatibility.-->
+        <section id="primary">
+            <h2>
+                Inspired by 
+                <cite>
+                    "How to design and write web pages today" by Karl Stolley.
+                </cite>
+            </h2>
+
+            <p>I took it upon myself to learn how to properly structure HTML, later CSS and ECMAScript
+                because I want to work on <em>under the hood</em> projects. I have been doing the same with C/C++ and Python
+                in order to gain a deeper understanding of all things CS.
+            </p>
+            <h2>Motivations and lessons</h2>
+            <p> 
+                A motivation behind this project has not only been the book but also a deep desire to 
+                build things. This outlet has been fun to work with and I see so much progress in it.
+                This, alongside some projects I want to build for the basis for why I am passionate about
+                practicing and gaining traction with my ability to program and create front-end projects.
+            </p>
+            <p>
+                I could link other HTML pages I have been working on here but I have a dedicated
+                project that does that. It lists other projects is all. A lesson behind gracegul 
+                degradation is in making something purely in HTML be as pretty as possible. The main
+                tenets of web pages are core to this: 
+                <ul class="aus">
+                    <li> Accesibility</li>
+                    <li> Usabiliy</li>
+                    <li> Sustainability</li>
+                </ul>
+            </p>
+        </section>
+
+        <section id="secondary">
+            <h2>
+                Structure matters
+            </h2>
+
+            <p>
+                Making the structure not overly confusing and navigation simple. 
+                This is a key factor to notice and get feedback on as often as you
+                can from actual users. This is an aspect of usability.
+
+                <h4>Five useful usability test questions: </h4>
+
+                <ul>
+                    <li>Can users find everything there is to find fairly easily?</li>
+                    <li>Can user find specific items if they were asked to?</li>
+                    <li>What would a user look at on your site? 
+                        "What would you look at to decide whether to buy from us?
+                    </li>
+                    <li>Can users find things they found before, easily? 
+                        <strong>This is a matter of consistency as well.</strong>
+                    </li>
+                </ul>
+            </p>
+
+            <p>
+                Another aspect of structure that should not be overlooked is simple navigation tools.
+                This could be a nav bar or an in page search tool such as the one shown in the
+                <a href="https://www.w3schools.com/howto/howto_css_searchbar.asp">How TO- Search Bar by W3Schools</a>.
+            </p>
+        </section>
+
+        <section id="tertiary">
+            <h2>
+                 More Info
+            </h2>
+
+            <p>
+                <strong>Accessibility</strong> requires designing for conditions. <strong>Usabiliy</strong> requires desgining for behaviors. 
+                <strong>Sustainability</strong> requires designing for accessibility and usability in two dimensions: time and scale. 
+            </p>
+        </section>
+    </main>
+
+    <aside id="outside-content">
+        <h3>
+            Other projects 
+        </h3>
+
+        <p>
+            If you want to follow my learning journey, embark on one together, or just see other things I am working on.
+            Check out my <a href="F:/HTML_CSS_JS_LEARNING_PROJECTS/Portfolio_Cab_designs/index.html">Projects page</a>, if you 
+            would are interested in my latest project check out <a href="F:/HTML_CSS_JS_LEARNING_PROJECTS/First_Bulma_project/index.html"> A Finance Post</a>. 
+            I also work on things in Python, am currently in the process of learning C/C++ and ECMAScript as well as Ruby for fun.
+            More specifically, I want to build screensavers using C and learn about more under the hood processes. With ECMAScript
+            I aim to design better frontend and delve into cooler projects such as Node and Express ans use Typescript to build on 
+            top of that. I want to learn Ruby because why not? The project roots intrigue me and have a good application on web developement.
+        </p>
+    </aside>
+    
+    <!-- Set this size and color proper to smaller font-->
+    <footer id="footer"> 
+        <h4>
+            Footer
+        </h4>
+
+        <p>
+            The footer is new to me but I have seen it be used on other sites.
+            They usually tag something or link something short.
+        </p>
+    </footer>
+</body>
+</html>
