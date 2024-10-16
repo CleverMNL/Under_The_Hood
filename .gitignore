@@ -7,3 +7,5 @@ Forensics_notebook/.obsidian
 Excalidraw/
 Forensics_notebook/Excalidraw
 *.canvas
+
+.vscode/*
