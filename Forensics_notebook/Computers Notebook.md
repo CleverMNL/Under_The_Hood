@@ -1,4 +1,4 @@
-I am fascinated by what computers can do and want to learn more about forensics so this is the under the hood notes projects of forensics
+I am fascinated by what computers can do and want to learn more about forensics so this is the under the hood notes projects of forensics.
 
 This all starts with understanding how the internet works and how devices allow for the transfer of information/data. Under the hood is a project that will also go into tangents such as how the copy and paste commands work, how electronics work, how compression works, and try to discover the why of all of these things.
 

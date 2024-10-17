@@ -74,3 +74,17 @@ https://youtu.be/NNNPgIfK2YE?si=pNQUEQrR5c8euTHi
 https://youtu.be/dzNvk80XY9s?si=A6Mh8ErhmfLT03Ng
 
 
+Movies:
+
+The Hobbit
+Lord of the Rings
+
+Batman Begins
+
+Man from Nowhere
+
+Chronicle
+
+Limitless
+
+Nobody

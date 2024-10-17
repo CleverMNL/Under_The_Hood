@@ -197,6 +197,8 @@ Monetary unit assumption
 ---
 OBSESS OVER LEARNING
 
+Regard comparison as an ultimate evil.
+
 ---
 ##### A video that covers all bases and provides a great overview of what is needed to understand accounting: https://youtu.be/hTU6HE64Wd0?si=HxHUGJke5jjsq9mn
 
