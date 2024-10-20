@@ -3,9 +3,12 @@ The resource used by me is: [Financial Accounting – Simple Book Publishing (lu
 The PowerPoint slide here are helpful and highly recommended: [PowerPoints – Financial Accounting (lumenlearning.com)](https://content.one.lumenlearning.com/financialaccounting/chapter/powerpoints/)
 
 I also used ChatGPT, Gemini, and Claude to test my progress throughout the process of learning.
-I will be redoing my notes here from Module 0 here but again, I have gone through the materials once before.
+
+I will be redoing my notes here from Module 0 here, but again, I have gone through the materials once before.
 
 Going through the assignments is also very helpful: [Assignments – Financial Accounting (lumenlearning.com)](https://content.one.lumenlearning.com/financialaccounting/chapter/assignments/)
+
+I also found this Youtube video really helpful and felt like a better lesson than I got in college: [Financial Accounting in simple English, All Accounting topics covered. - YouTube](https://www.youtube.com/watch?v=DYg2jT9aUG4)
 
 ---
 ### Module 0: Why does accounting matters
@@ -186,13 +189,26 @@ One great example of how a proposed change actually was implemented and battled 
 More recently, the FAF established the Private Company Council (PCC) in order to address the restrictive nature and complexity of GAAP for smaller companies to follow which outweigh the benefit. These changes point to the nature of accounting again, and the adaptiveness required to understand it. 
 
 Module 2 Lecture 5- Integral concepts to GAAP
-Information should be made useful to many stakeholders in their decision making. It should also help asses the amounts, risk, and timing of cashflows in the business. Thirdly, it should identify the economic resources of a company. 
+Information should be made useful to many stakeholders in their decision making. It should also help assess the amounts, risk, and timing of cashflows in the business. Thirdly, it should identify the economic resources of a company. 
 
 This importance of information leads to:
 - The monetary unit assumption
 - The historical price principle
 
-Monetary unit assumption 
+Monetary unit assumption:
+I had to use Gemini to simplify and provide an analogy of this principle. This is a principle that states, simply put, that all "transactions" should be recorded in using a common money unit, like a dollar or a euro or a yen for the sake of consistency and historical evidence/uniformity. An analogy using a measuring system could help. There was once a project that was a collaboration between the United States and some EU members to reach space or the moon. When preparing to launch for initial testing, the rocket blew up. Upon research, they found that there were discrepancies in the measurements used that were only minutely different in separate areas but these all added up and caused major defects. The use of both a metric system of measurement vs the customary unit system resulted in a financial blowup. Using a common monetary unit ensures that information remains comparable and reliable/meaningful financially. 
+
+Historical price principle:
+This is a more straight forward principle with a weird name. What is refers to is that assets should be recorded at their original cost when acquired. In other words, at the time something is purchased, for example, the price paid should be recorded regardless of the asset price while held. Think of real estate, the price of a property is not recorded every month updating for price changes (increases or decreases) but rather, they are recorded at the actual price it was paid for. The reason for this is to ensure that assets value are based on objective and verifiable amounts and not what todays price may be. (I first thought about how this may play out with stocks because they are priced everyday- almost). This is a slight two edged sword because an asset value may vastly differ from the paid price but its purpose is not to evaluate an asset rather it is to ensure proper tracking of prices paid. This is not valuation modeling. 
+
+Module 2 Lecture 5 More assumptions
+
+Economic Entity Assumption:
+
+
+Going Concern Assumption:
+
+
 
 ---
 OBSESS OVER LEARNING
