@@ -1,5 +1,16 @@
 Getting back to the basics and understanding the root/fundamentals that power the internet is the point of this note. Everything else is mainly built on top of this. 
 
+I guess I should begin with electricity and how it works. I will link the resources I find most helpful to my learning process. 
+
+
+https://youtu.be/ru032Mfsfig?si=vSuC48mKhqhRawrB
+This video is well made with great visuals and explains things easily and visually. It introduces many concepts and give a high level overview. It is part of a playlist titled Electricity.
+
+[Power Generation](https://www.youtube.com/watch?v=ZSCEfJ4TXW4) Great video that is in depth and high quality. 
+
+
+--- 
+
 A great analogy could be tied to using a phone book, the cliche in computer science. 
 
 A simple breakdown of the process begins with a DNS or domain name system, this would be like the phonebook of all phonebooks. This ties two things together essentially, the human readable name of a website for example, and an IP address that uniquely identifies it. Our computer uses a browser which does everything for us and connects to DNS. The function of retrieving IP addresses done by the DNS then leads us to routing. This is a process of finding a location. Your search results in an IP your DNS returned when you searched for a server. Pages are held in servers so if you look for a website, you are looking in a server which then sends a response to your computer, ideally the website data (HTML, CSS, images, JS, etc.), but it can also send error messages. The final step to get a website to your computer for you to see is called browser rendering. This is a function that a browser does to interpret the data received from the server and display it (parse the HTML, CSS, JS, images). 
