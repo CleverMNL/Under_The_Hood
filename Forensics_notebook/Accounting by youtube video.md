@@ -1,1 +1,0 @@
-Useful video and actually covers a lot of content. Does a good job relating the accounting process together and explaining what can be derived from each number. I did skip through some sections as they seemed less applicable or pertinent to myself. 
