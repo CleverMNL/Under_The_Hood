@@ -11,11 +11,17 @@ https://youtu.be/xNN7iTA57jM?si=180eGnkYJoR93TTI
 
 https://youtu.be/4vIQON2fDWM?si=G36v9uudu5bVf17B
 
+https://youtu.be/Kgz25mwYerc?si=HxhIZnjjbSuXozNP
+
 https://youtu.be/Q2r_ymfzJgg?si=BNTGKlFo6tRx7RzE
+
+https://youtu.be/twGDmUxjuDA?si=XylM-mSIx6Ooh3Y1
 
 https://youtu.be/JYsQ4pce720?si=ma2l69_gMsmvWo4U
 
 https://youtu.be/F02iMCEEQWs?si=ZnavN-BlRDXSor1A
+
+https://youtu.be/tryZc34AThc?si=VmT_BUfjCqTHTVBB
 
 https://youtu.be/H0U8zDqpu9Q?si=k6u40gOHq8V2zL92
 
@@ -73,9 +79,11 @@ https://youtu.be/NNNPgIfK2YE?si=pNQUEQrR5c8euTHi
 
 https://youtu.be/dzNvk80XY9s?si=A6Mh8ErhmfLT03Ng
 
+https://youtu.be/CtVHByJoGek?si=8IxzWdlmmdH57Ejt
 
-Movies:
+https://youtu.be/1RIoZoaeuCU?si=lsQlDZLiB8T8qztR
 
+---
 The Hobbit
 Lord of the Rings
 
