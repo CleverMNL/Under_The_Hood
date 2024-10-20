@@ -26,5 +26,3 @@ Accounting and Bookkeeping are the basis of all financial transactions. Ledger k
 [[Secrecy]]
 
 [[Laundering]]
-
-[[Accounting by youtube video]]
