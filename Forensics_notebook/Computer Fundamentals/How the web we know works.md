@@ -6,7 +6,7 @@ I guess I should begin with electricity and how it works. I will link the resour
 https://youtu.be/ru032Mfsfig?si=vSuC48mKhqhRawrB
 This video is well made with great visuals and explains things easily and visually. It introduces many concepts and give a high level overview. It is part of a playlist titled Electricity.
 
-[Power Generation](https://www.youtube.com/watch?v=ZSCEfJ4TXW4) Great video that is in depth and high quality. 
+[Power Generation](https://www.youtube.com/watch?v=ZSCEfJ4TXW4) Great video that is in depth and is high quality. 
 
 
 --- 

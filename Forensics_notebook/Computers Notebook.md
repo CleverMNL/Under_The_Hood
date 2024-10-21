@@ -8,6 +8,10 @@ I found these two videos to be helpful in designing my obsidian notes:
 1. [Markdown Embeds with Excalidraw Obsidian - MVP release (1.4.13) - YouTube](https://www.youtube.com/watch?v=tsecSfnTMow)
 2. [Obsidian Excalidraw Automation Showcase - YouTube](https://www.youtube.com/watch?v=QNksBPe75Ho)
 
+This is the best introductory guide covering how to use Obsidian: [A basic guide to formatting notes in Obsidian.md](https://rossgriffin.com/tutorials/obsidian-basics-guide/)
+
+This is also a great site for useful community plugin for Obsidian: [Ultimate List of The Best Obsidian Plugins - Obsidian Ninja](https://obsidianninja.com/best-obsidian-plugins/)
+
 Here I will link more specific files and this will act as a top level repo:
 
  [[Networks]]
