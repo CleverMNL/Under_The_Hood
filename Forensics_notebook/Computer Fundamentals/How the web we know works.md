@@ -2,12 +2,29 @@ Getting back to the basics and understanding the root/fundamentals that power th
 
 I guess I should begin with electricity and how it works. I will link the resources I find most helpful to my learning process. 
 
-
 https://youtu.be/ru032Mfsfig?si=vSuC48mKhqhRawrB
 This video is well made with great visuals and explains things easily and visually. It introduces many concepts and give a high level overview. It is part of a playlist titled Electricity.
 
 [Power Generation](https://www.youtube.com/watch?v=ZSCEfJ4TXW4) Great video that is in depth and is high quality. 
 
+[Simple explanation of a generator](https://www.youtube.com/watch?v=UL_ryxub-RA) This is a cool example of AC and DC but not the most explanative (also, those nails go crazy).
+
+[Building a Generator - YouTube](https://www.youtube.com/watch?v=tb3iN4m9Bik) Clear and high quality visuals on making a generator using 3D views. Covers a lot of ground but does not go too in depth on them (for example, why do turn of a wire -the amount of times a wire is wrapped in a circle- so important to the output of energy created). This video made me think about things like energy loss, circuitry, scalability, consistency, and the health effects of EMF exposure and what EMF really is. Beautiful example of energy transfer using batteries too.
+
+[Energy 101: Electricity Generation](https://www.youtube.com/watch?v=20Vb6hlLQSg) Simple overview of everyday things people take for granted. A bit of a black box video, meaning it does not cover all topic deeply but is great at connecting many items people use. (Does make me think about what is done with all the excess energy that is produces and transmitted in cables.)
+
+[Introduction to Computing - Let's Make a Redstone Computer #1](https://www.youtube.com/watch?v=osFa7nwHHz4) This guy is a mad lad. Awesome video.
+
+[VirtualBrain [ENG] - YouTube](https://www.youtube.com/@VirtualBrainENG/videos) This guy too.
+
+---
+**The most fascinating thing is that everyone and everything is build on the shoulders of others.**
+
+I can elucidate using the example of steam used in power generation. The burning of fossil fuels or natural gas into steam which rotates turbines that generates kinetic energy and electricity which is then moved from one place to the next all would not be a thing if the power of steam was not used or captured. Hero was the first person to every use steam to create rotational motion in 130 BCE in Alexandria he called the "aelopile". If it were not for the works of Charles Parsons, an elite noble born tinkerer whose work only drew attention with the applications he derived from the works of Henri-Victor Regnault and William John Macquorn Rankine who would not have studied thermodynamics were it not for the applications taking a hold in the field of science in their times. These can lead to other people and things which points out the greatness of inventions. Regnault -by the way- documented his research in three volumes containing 3,200 pages. 
+
+<blockquote>
+		Highly recommend the book, " The Things We Make" by Bill Hammack
+</blockquote>
 
 --- 
 
