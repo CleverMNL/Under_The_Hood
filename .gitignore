@@ -8,6 +8,6 @@ Excalidraw/
 Forensics_notebook/Excalidraw
 *.canvas
 
-.vscode/c_cpp_properties.json
-.vscode/launch.json
-.vscode/settings.json
+Forensics_notebook/.vscode/c_cpp_properties.json
+Forensics_notebook/.vscode/settings.json
+Forensics_notebook/.vscode/launch.json
