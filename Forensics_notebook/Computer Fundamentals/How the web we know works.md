@@ -1,6 +1,10 @@
 Getting back to the basics and understanding the root/fundamentals that power the internet is the point of this note. Everything else is mainly built on top of this. 
 
-I guess I should begin with electricity and how it works. I will link the resources I find most helpful to my learning process. 
+Learning is fundamental to any progress. As such, the study of learning is crucial to progressing. I will simply state that I have done an non-exhaustive yet thorough amount of research in metacognition, pedagogy, and cognitive psychology. 
+
+One model that has been overused and simplified yet works greatly at examining learning is an inverted triangle chart. I have broken down my learning abilities in this one: [[Learning Triangle]]
+
+I guess I should then begin with electricity and how it works. I will link the resources I find most helpful to my learning process. 
 
 https://youtu.be/ru032Mfsfig?si=vSuC48mKhqhRawrB
 This video is well made with great visuals and explains things easily and visually. It introduces many concepts and give a high level overview. It is part of a playlist titled Electricity.
@@ -18,7 +22,7 @@ This video is well made with great visuals and explains things easily and visual
 [VirtualBrain [ENG] - YouTube](https://www.youtube.com/@VirtualBrainENG/videos) This guy too.
 
 ---
-**The most fascinating thing is that everyone and everything is build on the shoulders of others.**
+**The most fascinating thing is that everyone and everything is built on the shoulders of others.**
 
 I can elucidate using the example of steam used in power generation. The burning of fossil fuels or natural gas into steam which rotates turbines that generates kinetic energy and electricity which is then moved from one place to the next all would not be a thing if the power of steam was not used or captured. Hero was the first person to every use steam to create rotational motion in 130 BCE in Alexandria he called the "aelopile". If it were not for the works of Charles Parsons, an elite noble born tinkerer whose work only drew attention with the applications he derived from the works of Henri-Victor Regnault and William John Macquorn Rankine who would not have studied thermodynamics were it not for the applications taking a hold in the field of science in their times. These can lead to other people and things which points out the greatness of inventions. Regnault -by the way- documented his research in three volumes containing 3,200 pages. 
 
