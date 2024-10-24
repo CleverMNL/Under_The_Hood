@@ -13,7 +13,11 @@ https://youtu.be/4vIQON2fDWM?si=G36v9uudu5bVf17B
 
 https://youtu.be/Kgz25mwYerc?si=HxhIZnjjbSuXozNP
 
+https://youtu.be/6bPN0JyGfA4?si=RK9mdkqjK8WbXu_n
+
 https://youtu.be/Q2r_ymfzJgg?si=BNTGKlFo6tRx7RzE
+
+https://youtu.be/1KRsDuqNVxM?si=y2LYi4zt-MqVDbie
 
 https://youtu.be/twGDmUxjuDA?si=XylM-mSIx6Ooh3Y1
 
@@ -34,6 +38,20 @@ https://youtu.be/rKImvyg0thI?si=tinX_8UTYmyjvvb_
 https://youtu.be/UnaXM6ceHks?si=eRHJ_PmwNVI4srZq
 
 https://youtu.be/APfszb7_y7Y?si=6juzg--2xs1H9L1U
+
+https://youtu.be/zvW1T4tpl9A?si=sL-JEYqqpnB60LfW
+
+It is nice sometimes to open the window by my desk and feel a cool breeze blow in, especially on soft rainy night.
+
+https://youtu.be/XFK9-GNBCe0?si=jzFJfxZq-t-DbYmH
+
+https://youtu.be/0cVNihcXWr0?si=7QVjGlcju_X08hgr
+
+https://youtu.be/l7RT-YcUEHY?si=oj-T2SuNF4vYegov
+
+https://youtu.be/XxAlUhtLDbU?si=1YnJhsV9DHx-LSSk
+
+https://youtu.be/KDlk2wm4Vnw?si=AcQo3OQPAMx6Q3dz
 
 https://youtu.be/FXBDf8Es8aY?si=opBPUqh3w7FqK1J4
 
