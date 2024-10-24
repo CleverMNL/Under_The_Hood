@@ -70,4 +70,20 @@ Numbers I used are arbitrary*
 
 Module 1 video 7- audio was terrible
 
-Showed examples of simple input and output using a temperature converter whereby a "user" provides what temperature to convert from Farenheit to Celsius.
+Showed examples of simple input and output using a temperature converter whereby a "user" provides what temperature to convert from Fahrenheit to Celsius. 
+
+An ampersand finds an address in memory.
+
+Introduces the concept of silent conversions which is some background mechanic/process that is done under the hood where one type is used and then changed into another type. In this example of F to C, the calculation is actually done using a double type which is more precise than an integer (int) but it is then converted from this double to an int type think of the conversions done in Python from float to integer. 
+
+There are also some interesting shorthand and special characters introduced such as %d which refers to an integer.
+
+---
+Module 1 video 7- input  and output
+
+This next video touches on declarations and those being initializers. Which are simply things that are given an assigned value by someone (a programmer). For example, I could write int miles = 234; which would be a declaration with initialization because a program would then be able to use miles to identify the number 234. int means integer type. Identifiers is the name for miles or whatever other name I assign a thing to; yards = 123 ; yards would be an identifier. 
+
+Another concept introduced is the order of operations used in C. PEMDAS is the way I remember being taught, but this can differ between programming languages. Not much else is given on I/O but an exercise is. "Modify input of mile to yards for general conversion of kilometers too".
+
+---
+A peer review assessment is given. Fix a hello world program. Too simple in my opinion. W3Schools has a better way to learn syntax by filing out missing characters and is helpful. 
