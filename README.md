@@ -12,21 +12,6 @@ This will be one of more notebooks that will be using VSCode along with Obsidian
 ## Overview 
 My point is not to create beautiful and complex looking notes to impress anyone. I wish to makes notes as simple as possible to examine my learning. Notes should be focused on practicality and comprehension. I believe there is no limit to a person' learning ability only a limit to someones teaching ability and patience. I quote Richard Feynman who stated, "What I cannot crate, I do not understand.". Another great quote I believe to be relevant to any endeavor written by Andre Gide, "One does not discover new lands without consenting to lose sight of the shore for a long time.". Lastly, a quote by Epictetus, "If you want to improve, be content to be thought foolish and stupid.". 
 
-<blockquote>
-        Better to remain silent and be though a fool than to speak and remove all doubt. - Attributed to Abraham Lincoln
-</blockquote>
-<br>
-or
-
-<br>
-<blockquote>
-        Even a fool is thought wise if he keeps silent, and discerning if he holds his tongue. - Proverbs 17:28
-</blockquote>
-<br>
-I would despise a life of a sophomore; more so than death.
-
-<br>
-
 Learning is a community endeavor. I enjoy the view that Dr. Alfred Adler took on the problems of the world and that they all came to the issue of interpersonal relationship problems. We cannot comprehend the world if the universe was just one individual. What I am mean to say is that this project is not about me. I hope this serves another curious person
 and helps them build a resource of learning for themselves. 
 
