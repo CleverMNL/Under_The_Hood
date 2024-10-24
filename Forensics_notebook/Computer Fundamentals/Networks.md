@@ -1,6 +1,8 @@
 
 This video is the best shortest lesson on networking and helps make sense of terms used in these notes: https://youtu.be/sMHzfigUxz4?si=M4enw7PUU1M2cNf8
 
+A good overall lesson on networks that gives a general explanation to subnet masking, protocols, networking devices, etc.: [Lecture - Networking - YouTube](https://www.youtube.com/watch?v=kNKHM_isojI). Enjoyed the whiteboard approach and simple examples. (The class could be more excited about the subject but that is that.)
+
 [Network Ports Explained (youtube.com)](https://www.youtube.com/watch?v=g2fT-g9PX9o) Netstat is cool
 
 More on networks; great lecture: https://youtu.be/kNKHM_isojI?si=321L1l88nvlU7uWS enjoyed the analogies provided to help make sense of traffic. 
